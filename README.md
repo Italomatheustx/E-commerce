@@ -1,4 +1,4 @@
-o objetivo desse  projeto foi iniciando o desenvolvimento de e-commerce de livros, estruturando o projeto back-end e criando a API de listagem de produtos.
+o objetivo desse projeto é criar e-commerce de livros, estruturando o projeto back-end e criando a API de listagem de produtos.
 
 
 # AppComponent
