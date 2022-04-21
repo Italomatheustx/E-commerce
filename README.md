@@ -1,3 +1,6 @@
+o objetivo desse  projeto foi iniciando o desenvolvimento de e-commerce de livros, estruturando o projeto back-end e criando a API de listagem de produtos.
+
+
 # AppComponent
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
